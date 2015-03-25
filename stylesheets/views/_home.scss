@@ -1,0 +1,201 @@
+.container{
+width: 100%;
+padding-left: 0;
+padding-right: 0;
+}
+
+header h3{
+	display: inline-block;
+	margin-left: 22px;
+	margin-bottom: 26px;
+	font-weight: 600;
+	color:white; 
+	font-size: 25px;
+}
+header{
+	background-color: pink; 
+	width: 100%; 
+	z-index: 10; 
+	position: fixed;
+}
+.button{
+display: inline-block;
+position: relative;
+float: right;
+margin-top: 17px;
+margin-right: 35px;
+}
+.logo{
+display: inline-block;
+position: relative;
+left: 7.5%;
+font-size: 21px;
+border: 1px solid;
+margin: 5px;
+padding-left: 4px;
+padding-right: 4px;
+padding-top: 3px;
+}
+ 
+aside{
+	width:20%;
+	background-color: rgb(174, 171, 171);
+	position: fixed; 
+	top: 73px;
+	.parteuno {
+		text-align: center;
+				}
+	img{
+		border-radius: 50%;
+		margin-top: 28px;
+		}
+	}
+.nav > li > a{
+	padding: 21px 15px;
+	color:black;
+	padding-left: 30px;
+}
+section{
+width: 80%;
+left: 20%; 
+position: relative; 
+top: 73px;
+}
+
+.row {
+margin-left: 0; 
+ margin-right:0;  
+ padding-bottom: 40px;
+}
+.col-xs-9 {
+	background-color:white;
+	padding-left: 0px; 
+   padding-right: 0px;  
+   padding-top: 74px;
+}
+
+.notificacion{
+	background-color: dimgrey;
+	color: white;
+}
+.notificacion h5{
+	font-size: 22px;
+text-align: center;
+margin-top: 19px;
+margin-bottom: 0px;
+height: 65px;
+padding-top: 21px;
+}
+.parteuno img{ 
+width: 85px; 
+}
+.btn-warning{ 
+background-color: #81D4FA; 
+border-color: transparent; 
+} 
+
+  
+ 
+
+
+span.glyphicon.glyphicon-heart-empty{ 
+font-size: 55px;} 
+span.glyphicon.glyphicon-cloud{font-size: 55px;}
+span.glyphicon.glyphicon-inbox{font-size: 55px;} 
+span.glyphicon.glyphicon-align-center{font-size: 55px;} 
+span.glyphicon.glyphicon-edit{font-size: 55px;}
+ 
+
+
+span.raya{ 
+border-bottom:1px solid black;  
+display: block;   
+padding: 15px;
+}
+ 
+span.parrafo { 
+font-size: 10px;
+padding: 10%; 
+display: block;  
+visibility: hidden; 
+padding-bottom: 21px;
+}  
+.caja:hover{   
+background-color: #E1F5FE; 
+	span.parrafo{ 
+	visibility: visible; 
+	color:black; 
+}  
+	span.raya {
+		border-bottom: none;
+	}
+}
+  
+ .contenido{ 
+ 	height: 200px;   
+ } 
+ .contenido2{ 
+ 	height: 200px;  
+ 	background-color: gainsboro;
+ }
+.caja{ 
+padding-top: 12px; 
+} 
+.subti{ 
+background-color: antiquewhite; 
+height: 30px;  
+text-align: center; 
+padding-top: 7px;
+}  
+.subti2{  
+height: 30px;  
+text-align: center; 
+padding-top: 7px;
+} 
+ 
+ 
+.row.loops.text-center{ 
+padding-bottom: 30px;} 
+
+ 
+span.glyphicon.glyphicon-time{ 
+font-size: 70px; 
+top: 45px;  
+}  
+span.glyphicon.glyphicon-camera{ 
+font-size: 70px;  
+top: 45px;
+} 
+span.glyphicon.glyphicon-gift{ 
+font-size: 70px; 
+top: 45px; 
+
+} 
+.list-group-item{ 
+padding: 27px 15px; 
+} 
+
+ 
+span.glyphicon.glyphicon-record{ 
+font-size: 16px; 
+padding: 0 8px; 
+} 
+ 
+ul.nav.nav-list{ 
+height: 769px; 
+} 
+.footer{ 
+height: 27px; 
+background-color: black; 
+} 
+
+span.glyphicon.glyphicon-chevron-up{ 
+font-size: 20px; 
+color: white;  
+float: right; 
+padding-right: 15px;
+} 
+.texto{
+	color: white; 
+	text-align: center;
+}
